@@ -20,12 +20,6 @@ I'm a passionate **DevOps Engineer** focused on building scalable infrastructure
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ifaakash&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📈 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ifaakash&theme=tokyonight)
@@ -35,5 +29,4 @@ I'm a passionate **DevOps Engineer** focused on building scalable infrastructure
 ## 🔗 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hey-its-aakash.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashch2/)
