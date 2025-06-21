@@ -3,10 +3,10 @@
 I'm a passionate **DevOps Engineer** focused on building scalable infrastructure and smooth CI/CD pipelines.
 
 🚀 Expert in:
-- Docker & Kubernetes (Container orchestration wizardry)
-- Ansible & Terraform (Infrastructure as code magic)
-- Monitoring & alerting (keeping systems healthy)
-- Multi-cloud platforms: AWS, GCP, Azure (cloud polyglot)
+- Docker & Kubernetes
+- Ansible & Terraform
+- Monitoring & alerting
+- Multi-cloud platforms: AWS, GCP, Azure
 
 🌐 Check out my portfolio: [hey-its-aakash.lovable.app](https://hey-its-aakash.lovable.app/)
 
@@ -16,7 +16,7 @@ I'm a passionate **DevOps Engineer** focused on building scalable infrastructure
 
 ![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifaakash&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifaakash&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifaakash&layout=donut-vertical&theme=tokyonight)
 
 ---
 
