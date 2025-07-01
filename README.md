@@ -8,7 +8,7 @@ I'm a passionate **DevOps Engineer** focused on building scalable infrastructure
 - Monitoring & alerting
 - Multi-cloud platforms: AWS, GCP, Azure
 
-🌐 Check out my portfolio: [hey-its-aakash.lovable.app](https://hey-its-aakash.lovable.app/)
+🌐 Check out my portfolio: [hey-its-aakash.lovable.app](https://aakashc.work/)
 
 ---
 
