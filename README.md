@@ -28,5 +28,5 @@ I'm a passionate **DevOps Engineer** focused on building scalable infrastructure
 
 ## 🔗 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hey-its-aakash.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aakashc.work/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashch2/)
