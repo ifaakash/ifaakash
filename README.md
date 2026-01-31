@@ -1,32 +1,11 @@
 # Hey, I'm Aakash 👋
 
-I'm a passionate **DevOps Engineer** focused on building scalable infrastructure and smooth CI/CD pipelines.
+DevOps Engineer focused on scalable infrastructure and CI/CD pipelines.  
+[Portfolio](https://hey-its-aakash.lovable.app/) • [LinkedIn](https://www.linkedin.com/in/aakashch2/)
 
-🚀 Expert in:
-- Docker & Kubernetes
-- Ansible & Terraform
-- Monitoring & alerting
-- Multi-cloud platforms: AWS, GCP, Azure
+## Projects
 
-🌐 Check out my portfolio: [aakashc.work](https://aakashc.work/)
-
----
-
-## 📊 GitHub Stats
-
-![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifaakash&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifaakash&layout=donut-vertical&theme=tokyonight)
-
----
-
-## 📈 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ifaakash&theme=tokyonight)
-
----
-
-## 🔗 Connect with me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aakashc.work/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashch2/)
+- [**ai_commit**](https://github.com/ifaakash/ai_commit) – AI-powered git hook to generate commit messages using DeepSeek/Gemini APIs.
+- [**gh-prune**](https://github.com/ifaakash/gh-prune) – CLI tool to efficiently prune and manage GitHub Actions workflow runs.
+- [**FitBuddy**](https://github.com/ifaakash/FitBuddy) - Track your diet and stay aligned with your dream physique using AI suggestions  
+- [**pi5-monitoring**](https://github.com/ifaakash/pi5-monitoring) – Lightweight system monitoring dashboard for Raspberry Pi 5.
