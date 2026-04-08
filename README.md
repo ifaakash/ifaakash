@@ -9,4 +9,4 @@ DevOps Engineer focused on scalable infrastructure and CI/CD pipelines.
 - [**gh-prune**](https://github.com/ifaakash/gh-prune) – CLI tool to efficiently prune and manage GitHub Actions workflow runs.
 - [**FitBuddy**](https://github.com/ifaakash/FitBuddy) - Track your diet and stay aligned with your dream physique using AI suggestions  
 - [**pi5-monitoring**](https://github.com/ifaakash/pi5-monitoring) – Lightweight system monitoring dashboard for Raspberry Pi 5.
-- [**stackmyinfra**](https://github.com/ifaakash/stackmyinfra) – Describe it. We diagram it.
+- [**sketchmyinfra**](https://github.com/ifaakash/sketchmyinfra) – Describe it. We diagram it.
