@@ -1,6 +1,6 @@
 # Hey, I'm Aakash 👋
 
-DevOps Engineer focused on scalable infrastructure and CI/CD pipelines.  
+I make stuff to cure my boredom! 
 [Portfolio](https://hey-its-aakash.lovable.app/) • [LinkedIn](https://www.linkedin.com/in/aakashch2/)
 
 ## Projects
