@@ -1,6 +1,6 @@
 # Hey, I'm Aakash 👋
 
-I make stuff to cure my boredom! 
+I make stuff to cure my boredom!  
 [Portfolio](https://hey-its-aakash.lovable.app/) • [LinkedIn](https://www.linkedin.com/in/aakashch2/)
 
 ## Projects
